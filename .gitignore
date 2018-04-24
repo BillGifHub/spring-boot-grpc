@@ -1,3 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
-/spring-boot-grpc-start/spring-boot-grpc-start.iml
+/spring-boot-grpc-client/spring-boot-grpc-client.iml
+/spring-boot-grpc-server/spring-boot-grpc-start.iml
